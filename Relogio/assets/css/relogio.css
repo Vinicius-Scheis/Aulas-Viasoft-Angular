@@ -1,0 +1,23 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.imagem{
+    background-image: url(../imagens/filmes-de-guerra.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.container{
+    text-align: center;
+    padding-top: 300px;
+    font-size: 100px;
+    color: #fff;
+}
+
+
+
