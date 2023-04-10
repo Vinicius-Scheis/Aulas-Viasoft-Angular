@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+
+}
+h1{
+    text-align: center;
+    
+}
+
+input{
+  margin-left: 845px;
+}
+
+#resultado {
+    margin-left: 845px;
+}
+
